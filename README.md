@@ -1,2 +1,2 @@
 # control-de-inventario-y-costos-de-materia-prima-
-este proyecto se basa en crear y/o dirigir un control de stock de una tienda que ofrece un servicio de publicidad y de materiales promocionales, así como tambien los costos de los materiales, como también la disponibilidad de ellos
+anna creative es una empresa dedicada al marketing de productos publicitarios para otras marcas, ayuda a generar interes visual en informacion relacionada con la empresa que desee adquirir los servivios de anna creative, tanto flayers publicitarios, pancartas, tarjetas de presentacion u otros metodos publicitarios desde digitales hasta presenciales 
