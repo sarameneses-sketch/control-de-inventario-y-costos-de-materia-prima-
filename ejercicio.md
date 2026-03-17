@@ -30,7 +30,7 @@ entrega del proyecto y producto
   aprueba los diseños
   revisa los resultados
 
-  - **usuario**
+  - usuario
     ingresa informacion del cliente
     ve los proyectos
     ayuda en el diseño y la produccion o creacion
