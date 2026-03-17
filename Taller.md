@@ -21,5 +21,5 @@ MARKETING: debido a que nuestro proyecto se basa en una empresa dedicada a brind
 
 RECURSOS HUMANOS: ya que es una empresa con varias áreas de trabajo, tanto atención al cliente, como producción y gestión de bodega, necesitaríamos tener un control de horario, un orden en cuanto a los pagos y la información de cada persona que trabaje. 
 
-DIRECCION ESTRATEGICA: Somos una empresa que busca la expansión continua de nuestros servicios, contando asi con reinversiones y análisis del mercado para traer nuevos productos o ideas innovadoras  
+DIRECCION ESTRATEGICA: Somos una empresa que busca la expansión continua de nuestros servicios, contando asi con reinversiones y análisis del mercado para traer nuevos productos o ideas mas innovadoras  
 
